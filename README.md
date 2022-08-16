@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/tejasvianjali" target="blank"><img src="https://img.shields.io/twitter/follow/tejasvianjali?logo=twitter&style=for-the-badge" alt="tejasvianjali" /></a> </p>
 
-- 🔭 I’m currently working on React JS [Food Delivery Web App](https://github.com/anjali-tejasvi/Food_Order)
+- 🔭 I’m currently working on **Something Intresting**
 
-- 🌱 I’m currently learning **Node(.js),Express(.js) and MongoDB**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📝 I regularly write articles on [https://medium.com/@anjalitejasvi501](https://medium.com/@anjalitejasvi501)
 
