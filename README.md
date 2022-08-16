@@ -1,6 +1,6 @@
 ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Anjali Tejasvi</h1>
-<h3 align="center">A passionate Web developer from India.</h3>
+<h4 align="center">A passionate Web developer from India. I work with client side and server side javascript programming which includes node js Currently working with JavaScript framework React & Node js 🚀</h4>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b761171d77da6b6669866c06ad1fe130fb2a46e86e2f8&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali-tejasvi&label=Profile%20views&color=0e75b6&style=flat" alt="anjali-tejasvi" /> </p>
