@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@anjalitejasvi501](https://medium.com/@anjalitejasvi501)
 
-- 💬 Ask me about **Web Development (MERN)**
+- 💬 Ask me about **Web Development **
 
 - 📫 How to reach me **anjalitejasvi501@gmail.com**
 
